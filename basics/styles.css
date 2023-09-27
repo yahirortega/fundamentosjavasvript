@@ -1,0 +1,32 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+.container{
+    width: 40%;
+    height: auto;
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+    border: 1px solid white;
+    padding: 1%;
+    border-radius: 10px;
+    background-color: white;
+}
+input{
+    border: 1px solid #666666;
+    margin: 2%;
+    padding: 5px;
+    align-self: center;
+}
+button{
+    background-color: #2bbe8d;
+    border: 0;
+    color: white;
+    padding: 1%;
+}
+button:hover{
+    background-color: #1ae4a1;
+}
